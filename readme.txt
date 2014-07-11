@@ -8,4 +8,4 @@ download zip or clone maze3d, make new java project with maze3d source, add 4 li
 specifically gluegen-rt.jar gluegen-rt-natives-windows-amd64.jar jogl-all.jar jogl-all-natives-windows-amd64.jar
 run in eclipse AppMaze3D.java
 
-controls: mouse, WSAD. Experimental (probably buggy): E, Q, hold left mouse button and watch around
+controls: mouse, WSAD. Experimental (probably buggy): E, Q, hold left mouse button and look around
